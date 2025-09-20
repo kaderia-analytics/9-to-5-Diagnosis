@@ -44,6 +44,8 @@ Inspired by the rhythm of the workday, this dashboard was designed to explore ho
 - 🔗 **[View the Dashboard](#)**  
 ](https://app.powerbi.com/view?r=eyJrIjoiYjlmYjU3N2MtMmY4Yy00OGI3LWE1NjYtMjE0MTc4ODlkYTAxIiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9&embedImagePlaceholder=true)
 
+Note: This project is for demonstration , education and portfolio purposes only and does not represent official public health reporting.
+
 
 
 
