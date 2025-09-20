@@ -44,9 +44,7 @@ Inspired by the rhythm of the workday, this dashboard was designed to explore ho
 - 🔗 **[View the Dashboard](#)**  
 ](https://app.powerbi.com/view?r=eyJrIjoiYjlmYjU3N2MtMmY4Yy00OGI3LWE1NjYtMjE0MTc4ODlkYTAxIiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9&embedImagePlaceholder=true)
 
-- 🔗 **[Notion Portfolio Summary](#)**  
-https://www.notion.so/Kaderia-Burrows-25898f02e46180ad99c2e5ca85510708?source=copy_link
----
+
 
 
 
